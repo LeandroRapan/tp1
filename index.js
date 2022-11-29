@@ -1,4 +1,4 @@
-
+//tp1 Leandro Rapan
 //elección del producto
 let valor=0;
 let producto =  prompt("ingrese producto A,B, o C");
